@@ -1,4 +1,5 @@
 # custom-classification-model-with-pretrained-llms
+First posted in [Kaggle](https://www.kaggle.com/code/wesleyacheng/custom-classification-model-with-pre-trained-llms)
 
 # Introduction
 Hello, I'm **Wesley**, nice to meet you. 👋
